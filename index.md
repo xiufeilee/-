@@ -21,7 +21,7 @@ layout: home
 </div>
 
 <div class="permlinks">
-<h2>Recent Posts</h2>
+<h2>Recent articles</h2>
 <dl>
 	{% for post in site.posts limit:3 %}
 	<dt><code>{{ post.date | date_to_string }} </code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="{{ post.url }}">{{ post.title }}</a> &nbsp;{% include status-indicator.html status=post.status%}
@@ -33,10 +33,5 @@ layout: home
 	<p>... <a href="/blog">Full Posts List</a> </p>
 </dl>
 
-<h2>Upcoming Posts (edit me at /index.html )</h2>
-<ul>
-	<li>Post 1</li>
-	<li>Post 2</li>
-</ul>
 
 </div >
