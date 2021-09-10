@@ -1,26 +1,29 @@
 # Site settings
-title: The early Universe 
-description:  Xiu-Fei Li
+title: Website Title
+description: Website short description
 baseurl: "" 
-url: "https://xiufeilee.github.io/lxf/" 
+#change the baseurl to "" if you are using it as your user GitHub Pages
+url: "https://yk-liu.github.io"  
+
 
 # GitHub User settings
-username: Xiu-Fei Li
-github_username: xiufeilee
-user_description: A Physics undergrad with a broad interest
-user_title: Physics student
-email: xiufeili@outlook.com
+username: Username
+github_username: github_username
+user_description: user_description
+user_title: user_title
+email: 
 
 # Blog Author settings
 author:
-  name:           Xiu-Fei Li
+  name:            
   picture:        
-  email:          xiufeili@outlook.com
-  description:    I'm a Physics undergrad with a broad interest.
+  email:           
+  description:     
   twitter:
   facebook:
-  github:         https://github.com/xiufeilee
+  github:          
   linkedin:
+  clustrmap:      
 
 
 # markdown
@@ -34,6 +37,11 @@ kramdown:
  syntax_highlighter_opts:
   # Use existing pygments syntax highlighting css
   css_class: 'highlight'
+ span:
+  line_numbers: false
+ block:
+  line_numbers: true
+  start_line: 1
  
 highlighter: rouge
     
@@ -41,7 +49,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   
-
 permalink: none
 
 defaults:
@@ -53,10 +60,13 @@ defaults:
       toc: true
       mathjax: true
       mermaid: false
-      commentable: true
+      highlight: false
+      numbering: true
       status: Completed
       protected: false
+      commentable: true
       rss: true
+      numbering: true
 
 
 exclude:
@@ -65,4 +75,4 @@ exclude:
  - "*.cdf"
  - "*.nb"
  - "*.bk"
- - "*.draft"
+ - "*.draft.md"
