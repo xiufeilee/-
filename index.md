@@ -5,15 +5,10 @@ layout: home
 <h2> About me </h2>
 <p style="text-align: justify;"> Welcome!  I am a physicist in China.  I study theoretical cosmology, elementary particle physics, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today. </p>
 	
-	
 <div class="user-details2">	
 <h2> Reseach interests </h2>
-<p style="text-align: justify;"> My work addresses open questions in the study of theoretical cosmology by using the tools of elementary particle physics and particle astrophysics.</p>
-<ul>
-    <li>Why the universe contains more matter than antimatter and how we can test the physics of “baryogenesis” using high-energy particle collider experiments or astrophysical observations;</li>
-    <li>Why most of the particles in the universe are made of an ephemeral “dark matter,” how did it form, and what is its nature;</li>
-    <li>What can we learn about the universe from measurements of gravitational waves.</li>
-</ul>
+<p style="text-align: justify;"> My work addresses open questions in the study of theoretical cosmology by using the tools of elementary particle physics and particle astrophysics. I am interested in understanding: why the universe contains more matter than antimatter and how we can test the physics of “baryogenesis” using high-energy particle collider experiments or astrophysical observations; Why most of the particles in the universe are made of an ephemeral “dark matter,” how did it form, and what is its nature and What can we learn about the universe from measurements of gravitational waves.</p>
+
 
 <div class="permlinks">
 <h2>Recent articles</h2>
