@@ -1,29 +1,26 @@
 # Site settings
-title: Cosmo
-description:  
+title: Xiu-Fei Li
+description: 
 baseurl: "" 
-#change the baseurl to "" if you are using it as your user GitHub Pages
-url: "https://xiufeilee.github.io/lxf/"  
-
+url: "https://xiufeilee.github.io/lxf/" 
 
 # GitHub User settings
-username: Username
-github_username: github_username
-user_description: user_description
-user_title: user_title
-email: 
+username: Xi Li
+github_username: lixi1994
+user_description: A PhD candidate in Computer Science at Penn State
+user_title: PhD candidate in Computer Science
+email: lee.xi.1994@gmail.com
 
 # Blog Author settings
 author:
-  name:            
+  name:           Xi Li
   picture:        
-  email:           
-  description:     
+  email:          lee.xi.1994@gmail.com
+  description:    A PhD candidate in Computer Science at Penn State
   twitter:
   facebook:
-  github:          
+  github:         https://github.com/lixi1994
   linkedin:
-  clustrmap:      
 
 
 # markdown
@@ -49,6 +46,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   
+
 permalink: none
 
 defaults:
@@ -66,7 +64,6 @@ defaults:
       protected: false
       commentable: true
       rss: true
-      numbering: true
 
 
 exclude:
