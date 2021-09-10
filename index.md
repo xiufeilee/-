@@ -32,6 +32,6 @@ layout: home
     </dd>
 	{% endif %}
 	{% endfor %}
-	<p>... <a href="/blog">Full Posts List</a> </p>
+	<p>... <a href="/blog">More</a> </p>
 </dl>
 </div >
