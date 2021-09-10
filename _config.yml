@@ -1,6 +1,6 @@
 # Site settings
-title: Website Title
-description: Website short description
+title: Cosmo
+description:  
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://xiufeilee.github.io/lxf/"  
