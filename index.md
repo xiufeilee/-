@@ -19,8 +19,7 @@ layout: home
 	{% include clustrmap.html style="js" %}
 	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
 </div>
-</div>
-</div>
+
 
 
 <div class="permlinks">
