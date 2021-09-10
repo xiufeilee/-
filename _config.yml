@@ -1,6 +1,6 @@
 # Site settings
-title: Pointing to the Moon
-description: Blog of Xiu-Fei Li
+title: The early Universe 
+description:  Xiu-Fei Li
 baseurl: "" 
 url: "https://xiufeilee.github.io/lxf/" 
 
@@ -8,8 +8,8 @@ url: "https://xiufeilee.github.io/lxf/"
 username: Xiu-Fei Li
 github_username: xiufeilee
 user_description: A Physics undergrad with a broad interest
-user_title: Physics Undergraduate
-email: yingkai.liu@outlook.com
+user_title: Physics student
+email: xiufeili@outlook.com
 
 # Blog Author settings
 author:
