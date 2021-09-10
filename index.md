@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Xiu-Fei Li
+### Welcome! I am a PhD student major in theoretical physics and i studying in Beijing Normal University. I study theoretical cosmology and elementary particle physics. My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today.
 
-You can use the [editor on GitHub](https://github.com/xiufeilee/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Research：
+### My work addresses open questions in the study of theoretical cosmology by using the tools of elementary particle physics and particle astrophysics.  I am interested in understanding：
+### 1. Why the universe contains more matter than antimatter and how we can test the physics of “baryogenesis” using high-energy particle collider experiments or astrophysical observations;
+### 2. Why most of the particles in the universe are made of an ephemeral “dark matter,” how did it form, and what is its nature; 
+### 3. What can we learn about the universe from measurements of gravitational waves.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiufeilee/github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact：
+### Beijing Normal University
+### email: xiufeili@mail.bnu.edu
