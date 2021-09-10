@@ -11,8 +11,7 @@ layout: home
 	<h3> Analytics </h3>
 	{% include clustrmap.html style="js" %}
 	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
-</div>
-</div>
+
 <div class="permlinks">
 <h2>Recent Posts</h2>
 <dl>
