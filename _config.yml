@@ -1,21 +1,21 @@
 # Site settings
-title: Cosmology
-description: Xiu-Fei Li
+title: Website Title
+description: Website short description
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://xiufeilee.github.io/lxf/"  
 
 
 # GitHub User settings
-username: xiufeilee
-github_username: github_xiufeilee
+username: Username
+github_username: github_username
 user_description: user_description
 user_title: user_title
 email: 
 
 # Blog Author settings
-author: Xiu-Fei Li
-  name:             
+author:
+  name:            
   picture:        
   email:           
   description:     
