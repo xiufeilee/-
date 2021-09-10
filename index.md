@@ -6,7 +6,10 @@ layout: home
 <p style="text-align: justify;"> Welcome!  I am a physicist in China.  I study theoretical cosmology, elementary particle physics, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today. </p>
 <div class="user-details2">	
 <h2> Reseach interests </h2>
-<p style="text-align: justify;"> Welcome!  I am a physicist in China.  I study theoretical cosmology, elementary particle physics, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today. </p>
+<p style="text-align: justify;"> My work addresses open questions in the study of theoretical cosmology by using the tools of elementary particle physics and particle astrophysics. </p>
+1.why the universe contains more matter than antimatter and how we can test the physics of “baryogenesis” using high-energy particle collider experiments or astrophysical observations;</p>
+2.why most of the particles in the universe are made of an ephemeral “dark matter,” how did it form, and what is its nature;</p>
+3.what can we learn about the universe from measurements of gravitational waves.</p>
 
 <div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
 	<h3> Analytics </h3>
