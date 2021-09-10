@@ -3,7 +3,7 @@ layout: home
 ---
 <div class="user-details">
 <h2> Me and this website </h2>
-<p style="text-align: justify;"> Your description </p>
+<p style="text-align: justify;"> About me </p>
 <div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
 	<h3> Analytics </h3>
 	{% include clustrmap.html style="js" %}
