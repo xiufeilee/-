@@ -1,25 +1,25 @@
 # Site settings
 title: Pointing to the Moon
-description: Blog of Yingkai Liu
+description: Blog of Xiu-Fei Li
 baseurl: "" 
-url: "https://yk-liu.github.io" 
+url: "https://xiufeilee.github.io/lxf/" 
 
 # GitHub User settings
-username: Yingkai Liu
-github_username: yk-liu
+username: Xiu-Fei Li
+github_username: xiufeilee
 user_description: A Physics undergrad with a broad interest
 user_title: Physics Undergraduate
 email: yingkai.liu@outlook.com
 
 # Blog Author settings
 author:
-  name:           Yingkai Liu
+  name:           Xiu-Fei Li
   picture:        
   email:          yingkai.liu@outlook.com
   description:    I'm a Physics undergrad with a broad interest.
   twitter:
   facebook:
-  github:         https://github.com/yk-liu
+  github:         https://github.com/xiufeilee
   linkedin:
 
 
