@@ -30,6 +30,7 @@ layout: home
 	<h3> Analytics </h3>
 	{% include clustrmap.html style="js" %}
 	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
+	<body><a href="https://clustrmaps.com/site/1bjxv" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=tv84NyostHCuo1rKof-Rf9piViA_BTs7xK52OQTe24c&cl=ffffff"></a></body>
 </div>
 
 
