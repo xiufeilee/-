@@ -1,8 +1,10 @@
 ---
 title: What is LIGO?
-categories: Phase Transitions GW
-tages: PT GW LIGO
 edit: 2021-09-12
+mathjax: true
+mermaid: true
+tags: GW LIGO
+categories: Phase Transitions GW
 description: Laser Interferometer Gravitational-wave Observatory. 
 ---
 
