@@ -14,5 +14,5 @@ PT review:
 
 
 Bubble wall velocity:
-[Towards an all-orders calculation of the electroweak bubble wall velocity](https://arxiv.org/pdf/2007.10343.pdf)
+[Towards an all-orders calculation of the electroweak bubble wall velocity](https://arxiv.org/pdf/2007.10343.pdf);&nbsp;&nbsp; [Field-theoretic derivation of bubble-wall force](https://arxiv.org/pdf/2005.10875.pdf)
 
