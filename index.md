@@ -16,7 +16,7 @@ layout: home
 <h2>Articles</h2>
 <dl>
 	{% for post in site.posts limit:3 %}
-	<dt><code>{{ post.date | date_to_string }} <\code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="{{ https://xiufeilee.github.io/lxf/_posts/2021-09-11-Gravitational%20Waves.md }}">{{Gravitational Waves }}</a> &nbsp;{% include status-indicator.html status=post.status%}
+	<dt><code>{{ post.date | date_to_string }} </code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="{{ https://xiufeilee.github.io/lxf/_posts/2021-09-11-Gravitational%20Waves.md }}">{{Gravitational Waves }}</a> &nbsp;{% include status-indicator.html status=post.status%}
 	{% if post.description %}
  <dd style="text-align: justify">{{ post.description | markdownify }}
     </dd>
