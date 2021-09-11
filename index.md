@@ -2,8 +2,10 @@
 layout: home
 ---
 <div class="user-details">
+<p id="about" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
 <h2> Me and this website </h2>
-<p style="text-align: justify;"> Your description </p>
+<p style="text-align: justify;">Welcome!  I am a physicist in China.  I study theoretical cosmology, elementary particle physics, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today. </p>
+	
 <div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
 	<h3> Analytics </h3>
 	{% include clustrmap.html style="js" %}
