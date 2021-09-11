@@ -1,9 +1,12 @@
 ---
 title: Gravitational Waves
-categories: GW
-tags：GW
-edit: 2021-09-12
-description: Somehow this site's mathjax suddenly stopped working. This post is to test that. 
+commentable: flase
+Edit: 2021-09-11
+mathjax: true
+mermaid: true
+tags: GW
+categories: sample post
+description: This is a sample post testing and demonstrating all the markdown syntaxes. In the description you can also use markdowns to do *A* **B** ***C*** and `D` and other stuff like a [link](https://xiufeilee.github.io).
 ---
 Gravitational waves are 'ripples' in space-time caused by some of the most violent and energetic processes in the Universe. Albert Einstein predicted the existence of gravitational waves in 1916 in his general theory of relativity. Einstein's mathematics showed that massive accelerating objects (such as neutron stars or black holes orbiting each other) would disrupt space-time in such a way that 'waves' of undulating space-time would propagate in all directions away from the source. These cosmic ripples would travel at the speed of light, carrying with them information about their origins, as well as clues to the nature of gravity itself.
 
