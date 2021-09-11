@@ -4,14 +4,14 @@ layout: home
 <div class="user-details" style="float: left;width:58%;">
 <p id="about" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
      <h2> About </h2>
-<p><font color="#005f6b"> Welcome!  I am a physicist in China.  I study theoretical cosmology, elementary particle physics, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today. </p>
-</p>	
+<p><font size="4" color="#005f6b"> Welcome!  I am a physicist in China.  I study theoretical cosmology, elementary particle physics, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today. </p>
+	
 	
 <div class="user-details2"style="float: left;width:58%;">	
 <p id="reseach" style="text-align: left;"> &nbsp;&nbsp;&nbsp;&nbsp;
     <h2> Reseach </h2>
-<p><font color="#005f6b"> My work addresses open questions in the study of theoretical cosmology by using the tools of elementary particle physics and particle astrophysics. I am interested in understanding: why the universe contains more matter than antimatter and how we can test the physics of “baryogenesis” using high-energy particle collider experiments or astrophysical observations; why most of the particles in the universe are made of an ephemeral “dark matter,” how did it form; what is its nature and what can we learn about the universe from measurements of gravitational waves.</p>
-</p>
+<p><font size="4" color="#005f6b"> My work addresses open questions in the study of theoretical cosmology by using the tools of elementary particle physics and particle astrophysics. I am interested in understanding: why the universe contains more matter than antimatter and how we can test the physics of “baryogenesis” using high-energy particle collider experiments or astrophysical observations; why most of the particles in the universe are made of an ephemeral “dark matter,” how did it form; what is its nature and what can we learn about the universe from measurements of gravitational waves.</p>
+
 
 <div class="permlinks">
 <p id="articles" style="text-align: left;"> &nbsp;&nbsp;&nbsp;&nbsp;
