@@ -1,5 +1,5 @@
 ---
-title: Sample Post - Markdown Syntax
+title: What is Gravitational Waves？ 
 commentable: flase
 Edit: 2021-09-11
 mathjax: true
