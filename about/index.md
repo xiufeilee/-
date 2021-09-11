@@ -13,7 +13,7 @@ A student in physics.
 
 
 # This Site
-For studing and communicating with friends who are interested in physics and collecting papers from [aXiV](http://arxiv.org). 
+For studing and communicating with friends who are interested in physics and collecting papers from [aXiv](http://arxiv.org). 
 
 # Posts
 
