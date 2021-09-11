@@ -9,11 +9,11 @@ mathjax: true
 ---
 
 # Me
-
+A student in physics.
 
 
 # This Site
-
+For studing and communicating with friends who are interested in physics. 
 
 # Posts
 
