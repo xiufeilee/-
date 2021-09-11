@@ -13,7 +13,7 @@ layout: home
 
 
 <div class="permlinks">
-<p id="articles" style="text-align: left;"> &nbsp;&nbsp;&nbsp;&nbsp;
+<p id="articles" style="text-align: left;"> ;
 <h2>Articles</h2>
 <dl>
 	{% for post in site.posts limit:3 %}
