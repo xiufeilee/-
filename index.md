@@ -13,7 +13,7 @@ layout: home
 	
 <div class="user-details3">
 <p id="articles" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
-<h2>Article</h2>
+<h2>Articles</h2>
 <dl>
 	{% for post in site.posts limit:3 %}
 	<dt><code>{{ post.date | date_to_string }} </code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="{{ post.url }}">{{ post.title }}</a> &nbsp;{% include status-indicator.html status=post.status%}
