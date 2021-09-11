@@ -3,7 +3,7 @@ title: What is LIGO?
 categories: Phase Transitions GW
 tages: PT GW LIGO
 edit: 2021-09-12
-description: LIGO is the world's largest gravitational wave observatory. 
+description: Laser Interferometer Gravitational-wave Observatory. 
 ---
 
 LIGO stands for "Laser Interferometer Gravitational-wave Observatory". It is the world's largest gravitational wave observatory and a marvel of precision engineering. Comprising two enormous laser interferometers located 3000 kilometers apart, LIGO exploits the physical properties of light and of space itself to detect and understand the origins of gravitational waves (GW).
