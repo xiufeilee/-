@@ -23,7 +23,7 @@ layout: home
 	{% endif %}
 	{% endfor %}
 	<p>... <a href="https://xiufeilee.github.io/lxf/blog/">More</a> </p> 
-</dl>
+
 	
 	
 <div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
