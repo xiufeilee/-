@@ -3,16 +3,20 @@ layout: home
 ---
 <div class="user-details">
 <p id="about" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
-<h2> Me and this website </h2>
+<h2> About </h2>
 <p style="text-align: justify;">Welcome!  I am a physicist in China.  I study theoretical cosmology, elementary particle physics, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today. </p>
 	
+	<div class="user-details2">
+<p id="research" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
+<h2> Research  </h2>
+<p style="text-align: justify;">My work addresses open questions in the study of theoretical cosmology by using the tools of elementary particle physics and particle astrophysics. I am interested in understanding: why the universe contains more matter than antimatter and how we can test the physics of “baryogenesis” using high-energy particle collider experiments or astrophysical observations; why most of the particles in the universe are made of an ephemeral “dark matter,” how did it form; what is its nature and what can we learn about the universe from measurements of gravitational waves.</p>
 	
 <div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
 	<h3> Analytics </h3>
 	{% include clustrmap.html style="js" %}
 	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
 </div>
-</div>
+
 
 <div class="permlinks">
 <h2>Recent Posts</h2>
