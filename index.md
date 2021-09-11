@@ -22,7 +22,7 @@ layout: home
     </dd>
 	{% endif %}
 	{% endfor %}
-	<p>... <a href="https://xiufeilee.github.io/lxf/blog/">More</a> </p> 
+	<p>... <a href="https://xiufeilee.github.io/blog/">More</a> </p> 
 
 	
 	
