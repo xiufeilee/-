@@ -13,7 +13,7 @@ A student in physics.
 
 
 # This Site
-For studing and communicating with friends who are interested in physics and collecting papers from [arXiv](http://arxiv.org) especially about [[hep-ph]](https://arxiv.org/list/hep-ph/recent) & [[astro-ph.CO
+For studing and communicating with friends who are interested in physics and collecting papers from [arXiv](http://arxiv.org) especially [[hep-ph]](https://arxiv.org/list/hep-ph/recent) & [[astro-ph.CO
 ]](https://arxiv.org/list/astro-ph.CO/recent). 
 
 # Posts
