@@ -73,3 +73,5 @@ exclude:
  - "*.nb"
  - "*.bk"
  - "*.draft.md"
+
+theme: jekyll-theme-cayman
