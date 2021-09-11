@@ -1,5 +1,5 @@
 ---
-title: arXiv-PT and GW
+title: arXiv: PT and GW
 commentable: ture
 Edit: 2021-09-12
 mathjax: true
