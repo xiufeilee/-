@@ -1,6 +1,6 @@
 ---
 title: arXiv-PT and GW
-commentable: flase
+commentable: ture
 Edit: 2021-09-12
 mathjax: true
 mermaid: true
