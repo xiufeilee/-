@@ -50,3 +50,5 @@ Additional licensing information can be found YOUR WEBSITE LINK.
 
 # The Name
 
+Email: $siulee_physics$ _@_ $hotmail.com$ $(The first choice)$
+       $xiufeili1687$_@_$gmail.com$
