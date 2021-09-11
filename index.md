@@ -3,7 +3,7 @@ layout: home
 ---
 <div class="user-details" style="float: left;width:58%;">
 <p id="about" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
-	<h1> About Me </h1>
+	<h1> About  </h1>
 <p><font color="#005f6b">I'm Xi Li, a PhD candidate in Computer Science and Engineering Department at Pennsylvania State University. My research interest includes Computer Vision, Machine Learning, Data Mining.</font> <br /><a href="https://github.com/lixi1994/lixi1994.github.io/blob/master/about/Xi_CV.pdf">[CV]</a> <a href="https://github.com/lixi1994">[GitHub]</a> </p>
 </p>
 <!-- <div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
