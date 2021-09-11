@@ -1,23 +1,17 @@
 ---
 layout: home
 ---
-<div class="user-details" style="float: left;width:58%;">
-<p id="about" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
- <h2> About </h2>
-<p><font size="4" color="#005f6b"> Welcome!  I am a physicist in China.  I study theoretical cosmology, elementary particle physics, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today.
-
-
-	
-<div class="user-details2"style="float: left;width:58%;">	
-<p id="reseach" style="text-align:justify;">&nbsp;&nbsp;&nbsp;&nbsp;
-    <h2> Reseach </h2>
-<p><font size="4" color="#005f6b"> My work addresses open questions in the study of theoretical cosmology by using the tools of elementary particle physics and particle astrophysics. I am interested in understanding: why the universe contains more matter than antimatter and how we can test the physics of “baryogenesis” using high-energy particle collider experiments or astrophysical observations; why most of the particles in the universe are made of an ephemeral “dark matter,” how did it form; what is its nature and what can we learn about the universe from measurements of gravitational waves.</p>
-
-</div >
-
+<div class="user-details">
+<h2> Me and this website </h2>
+<p style="text-align: justify;"> Your description </p>
+<div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
+	<h3> Analytics </h3>
+	{% include clustrmap.html style="js" %}
+	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
+</div>
+</div>
 <div class="permlinks">
-<p id="articles" style="text-align: left;"> &nbsp;&nbsp;&nbsp;&nbsp;
-<h2>Articles</h2>
+<h2>Recent Posts</h2>
 <dl>
 	{% for post in site.posts limit:3 %}
 	<dt><code>{{ post.date | date_to_string }} </code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="{{ post.url }}">{{ post.title }}</a> &nbsp;{% include status-indicator.html status=post.status%}
@@ -26,14 +20,13 @@ layout: home
     </dd>
 	{% endif %}
 	{% endfor %}
-	<p>... <a href="/blog">More</a> </p>
+	<p>... <a href="/blog">Full Posts List</a> </p>
 </dl>
+
+<h2>Upcoming Posts (edit me at /index.html )</h2>
+<ul>
+	<li>Post 1</li>
+	<li>Post 2</li>
+</ul>
+
 </div >
-	
-	
-	
-<div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
-	<h3> Analytics </h3>
-	{% include clustrmap.html style="js" %}
-	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
-</div>	
