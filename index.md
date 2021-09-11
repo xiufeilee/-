@@ -26,10 +26,9 @@ layout: home
 
 	
 	
-<div class="analytics"  style="border: solid lightgrey; border-radius: 6px;">
-<h3> Analytics </h3>
- <body><a href='https://clustrmaps.com/site/1bjxv'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d=tv84NyostHCuo1rKof-Rf9piViA_BTs7xK52OQTe24c'/></a></body>
-	
+<div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
+	<h3> Analytics </h3>
+	<body><a href="https://clustrmaps.com/site/1bjxv" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=tv84NyostHCuo1rKof-Rf9piViA_BTs7xK52OQTe24c&cl=ffffff"></a></body> 
 </div>
 
 
