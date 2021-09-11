@@ -4,9 +4,9 @@ commentable: ture
 Edit: 2021-09-11
 mathjax: true
 mermaid: true
-tags: GW
-categories: sample post
-description: This is a sample post testing and demonstrating all the markdown syntaxes. In the description you can also use markdowns to do *A* **B** ***C*** and `D` and other stuff like a [link](https://xiufeilee.github.io).
+tags: GW LIGO
+categories: GW 
+description: Gravitational Waves Sources [link](https://arxiv.org/pdf/1806.05195.pdf).
 ---
 Every massive object that accelerates produces gravitational waves. This includes humans, cars, airplanes etc., but the masses and accelerations of objects on Earth are far too small to make gravitational waves big enough to detect with our instruments. To find big enough gravitational waves, we have to look far outside of our own solar system.
 
