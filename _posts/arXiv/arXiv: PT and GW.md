@@ -1,6 +1,6 @@
 ---
 title: arXiv: PT and GW
-commentable: ture
+commentable: false
 Edit: 2021-09-12
 mathjax: true
 mermaid: true
