@@ -27,8 +27,8 @@ layout: home
 	
 	
 <div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
-	<h3> Analytics </h3>
-	<body><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=tv84NyostHCuo1rKof-Rf9piViA_BTs7xK52OQTe24c'></script></body>
+<h3> Analytics </h3>
+<body><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=tv84NyostHCuo1rKof-Rf9piViA_BTs7xK52OQTe24c'></script></body>
 </div>
 
 
