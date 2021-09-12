@@ -4,7 +4,7 @@ layout: home
 <div class="user-details">
 <p id="about" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
 <h2> About </h2>
-<p style="text-align: justify;">Welcome!  I am a physicist in China.  I study theoretical cosmology, elementary particle physics, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today. </p>
+<p style="text-align: justify;">Welcome!  I am a Physics researcher at university.  I study theoretical cosmology, elementary particle physics, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today. </p>
 	
 <div class="user-details2">
 <p id="research" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
