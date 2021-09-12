@@ -9,7 +9,7 @@ layout: home
 <div class="user-details2">
 <p id="research" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
 <h2> Research  </h2>
-<p style="text-align: justify;">My work addresses open questions in the study of theoretical cosmology by using the tools of elementary particle physics and particle astrophysics. I am interested in understanding: why the universe contains more matter than antimatter and how we can test the physics of “baryogenesis” using high-energy particle collider experiments or astrophysical observations; why most of the particles in the universe are made of an ephemeral “dark matter,” how did it form; what is its nature and what can we learn about the universe from measurements of gravitational waves. ![LISA](https://xiufeilee.github.io/about/LISA.jpg)</p>
+<p style="text-align: justify;">My work addresses open questions in the study of theoretical cosmology by using the tools of elementary particle physics and particle astrophysics. I am interested in understanding: why the universe contains more matter than antimatter and how we can test the physics of “baryogenesis” using high-energy particle collider experiments or astrophysical observations; why most of the particles in the universe are made of an ephemeral “dark matter,” how did it form; what is its nature and what can we learn about the universe from measurements of gravitational waves. </p>
 		
 	
 <div class="user-details3">
@@ -25,7 +25,7 @@ layout: home
 	{% endfor %}
 	<p>... <a href="https://xiufeilee.github.io/blog/">More</a> </p> 
 
-	
+![LISA](https://xiufeilee.github.io/about/LISA.jpg)	
 	
 <div class="analytics">
 	<body><a href="https://clustrmaps.com/site/1bjxv" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=tv84NyostHCuo1rKof-Rf9piViA_BTs7xK52OQTe24c&cl=ffffff"></a></body> 
