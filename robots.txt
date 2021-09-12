@@ -1,1 +1,6 @@
+User-agent: *
+Disallow: /about/ 
+Disallow: /secret/
+Disallow: /secret
 
+SITEMAP: https://xiufeilee.github.io/sitemap.xml
