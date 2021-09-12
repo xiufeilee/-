@@ -12,4 +12,8 @@ Every massive object that accelerates produces gravitational waves. This include
 
 It turns out that the Universe is filled with incredibly massive objects that undergo rapid accelerations that by their nature, generate gravitational waves that we can actually detect. Examples of such things are orbiting pairs of black holes and neutron stars, or massive stars blowing up at the ends of their lives. LIGO scientists have defined four categories of gravitational waves based on what generates them: Continuous, Compact Binary Inspiral, Stochastic, and Burst. Each category of objects generates a unique or characteristic set of signal that LIGO's interferometers can sense, and that researchers can look for in LIGO’s data. Read on to learn more about the different objects and events that LIGO is looking for.
 
-
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
