@@ -9,10 +9,10 @@
 
 var string = "This is bitdegree.org!";
 var siteurl = "{page.url}"
-var page_real_name = siteurl.replace("https://yk-liu.github.io","")
-var page_real_name = siteurl.replace("https://yk-liu.github.io","")
+var page_real_name = siteurl.replace("https://xiufeilee.github.io","")
+var page_real_name = siteurl.replace("https://xiufeilee.github.io","")
 
-var result = string.replace("<img = ' ", "<img src=\"https://raw.githubusercontent.com/yk-liu/yk-liu.github.io/master/_posts/2018-08-20-One-Forms/");
+var result = string.replace("<img = ' ", "<img src=\"https://raw.githubusercontent.com/xiufeilee/xiufeilee.github.io/master/_posts/2018-08-20-One-Forms/");
 
 // convert all local img to raw.github to comply with kramdown
 // replace "<img = ' ", "<img src=\"https://raw.githubusercontent.com/yk-liu/yk-liu.github.io/master/_posts"
