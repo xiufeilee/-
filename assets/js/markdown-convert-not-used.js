@@ -20,7 +20,7 @@ var result = string.replace("<img = ' ", "<img src=\"https://raw.githubuserconte
 // (which is "https://yk-liu.github.io/2018/08/20/One-Form") to "2018-08-20-One-Forms" : remove "...github.io/" & replace / to -
 // and put that behind
 string.replace("<img = ' ", "<img src=\"https://raw.githubusercontent.com/yk-liu/yk-liu.github.io/master/_posts/");
-string2="{page.url}".replace("https://yk-liu.github.io/","")
+string2="{page.url}".replace("https://xiufeilee.github.io/","")
 string2.replace("///g","/-")
 
 add "/" to the tail
