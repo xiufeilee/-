@@ -3,12 +3,6 @@ title: Cosmo
 description: Xiu-Fei Li
 baseurl: "" 
 url: "https://xiufeilee.github.io/" 
-facebook: https://www.facebook.com/
-phone: 1580424XXXX
-email: xxxx@xxx.com
-baseurl: "/resume.io"
-
-permalink: /:year/:month/:day/:title/
 
 # GitHub User settings
 username: xiufeilee
