@@ -11,5 +11,5 @@ status: Writing
 ---
 >NOTES: Collecting papers from [arXiv](http://arxiv.org).
 
-# Axion dark matter
+## Axion dark matter
 [Thermal Misalignment of Scalar Dark Matter](https://arxiv.org/pdf/2109.04476.pdf)
