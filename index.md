@@ -4,7 +4,7 @@ layout: home
 <div class="user-details">
 <p id="about" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
 <h2> About </h2>
-<p style="text-align: justify;">Welcome!  I am a PhD student in theoretical physics. I study particle physics, cosmology, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today. </p>
+<p style="text-align: justify;">Welcome!  I am a PhD student in theoretical physics. I study particle physics, cosmology, and particle astro-physics. Besides physics, I also intersted in music and all kinds of outdoor sports. </p>
 	
 <div class="user-details2">
 <p id="research" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
