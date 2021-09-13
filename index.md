@@ -4,12 +4,12 @@ layout: home
 <div class="user-details">
 <p id="about" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
 <h2> About </h2>
-<p style="text-align: justify;">Welcome!  I am a physics researcher at university.  I study theoretical cosmology, elementary particle physics, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today. </p>
+<p style="text-align: justify;">Welcome!  I am a PhD student in theoretical physics. I study particle physics, cosmology, and particle astro-physics.  My research in these fields seeks to address some of the most exciting, persistent, and challenging problems in physics today. </p>
 	
 <div class="user-details2">
 <p id="research" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
 <h2> Research  </h2>
-<p style="text-align: justify;">My work addresses open questions in the study of theoretical cosmology by using the tools of elementary particle physics and particle astrophysics. I am interested in understanding: why the universe contains more matter than antimatter and how we can test the physics of “baryogenesis” using high-energy particle collider experiments or astrophysical observations; why most of the particles in the universe are made of an ephemeral “dark matter,” how did it form; what is its nature and what can we learn about the universe from measurements of gravitational waves.</p>
+<p style="text-align: justify;"> My research interests in employing the Quantum Field Theory, particle physics and gravitational wave physics to study the early universe. This mainly involves cosmological phase transitions, topological defects such as cosmic strings, and the relvent stochastic gravitational waves background. In addition, I also study the production mechanism  of dark matter and their nature. Finally, I'm going to get involved to primordial black hole and inflation.</p>
 	
 <div class="user-details3">
 <p id="articles" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
