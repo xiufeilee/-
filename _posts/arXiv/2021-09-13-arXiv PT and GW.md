@@ -9,7 +9,7 @@ categories: PT GW
 description: Collecting papers from [arXiv](http://arxiv.org).
 status: Writing
 ---
-<Collecting papers from [arXiv](http://arxiv.org).
+< Collecting papers from [arXiv](http://arxiv.org).
 # PT review
 [Phase transitions in the early universe](https://arxiv.org/pdf/2008.09136.pdf) ;&nbsp;&nbsp;
 [Phase transition dynamics and gravitational wave spectra of strong first-order phase transition in supercooled universe](https://arxiv.org/pdf/2003.08892.pdf)
