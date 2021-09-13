@@ -13,7 +13,7 @@ status: Writing
 [Phase transitions in the early universe](https://arxiv.org/pdf/2008.09136.pdf) ;&nbsp;&nbsp;
 [Phase transition dynamics and gravitational wave spectra of strong first-order phase transition in supercooled universe](https://arxiv.org/pdf/2003.08892.pdf)
 
-# Bubble dynamics
+# PT dynamics
 ## Bubble wall velocity
 [Towards an all-orders calculation of the electroweak bubble wall velocity](https://arxiv.org/pdf/2007.10343.pdf);&nbsp;&nbsp; [Field-theoretic derivation of bubble-wall force](https://arxiv.org/pdf/2005.10875.pdf)
 
