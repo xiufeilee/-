@@ -9,7 +9,7 @@ layout: home
 <div class="user-details2">
 <p id="research" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
 <h2> Research  </h2>
-<p style="text-align: justify;"> My research interests in employing the Quantum Field Theory, particle physics and gravitational wave physics to study the early universe. This mainly involves cosmological phase transitions, topological defects such as cosmic strings, and the relvent stochastic gravitational waves background. In addition, I also study the production mechanism  of dark matter and their nature. Finally, I'm going to get involved to primordial black hole and inflation.</p>
+<p style="text-align: justify;"> My research is employing the Quantum Field Theory, particle physics and gravitational wave physics to study the early universe. This mainly involves cosmological phase transitions, topological defects such as cosmic strings, and the relvent stochastic gravitational waves background. In addition, I also study the production mechanism  of dark matter and their nature. Finally, I'm going to get involved to primordial black hole and inflation.</p>
 	
 <div class="user-details3">
 <p id="articles" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
