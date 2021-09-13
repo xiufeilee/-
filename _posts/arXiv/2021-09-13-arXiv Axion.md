@@ -5,7 +5,7 @@ Edit: 2021-09-13
 mathjax: true
 mermaid: true
 tags: arXiv axion DM GW CS
-categories: dark,matter csomic,string GW
+categories: dark,matter cosmic,string GW
 description: Collecting papers from [arXiv](http://arxiv.org).
 status: Writing
 ---
