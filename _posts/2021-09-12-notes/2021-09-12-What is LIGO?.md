@@ -8,7 +8,7 @@ categories: Phase Transitions GW
 description: Laser Interferometer Gravitational-wave Observatory. 
 ---
 
-LIGO stands for "Laser Interferometer Gravitational-wave Observatory". It is the world's largest gravitational wave observatory and a marvel of precision engineering. Comprising two enormous laser interferometers located 3000 kilometers apart, LIGO exploits the physical properties of light and of space itself to detect and understand the origins of gravitational waves (GW).
+> LIGO stands for "Laser Interferometer Gravitational-wave Observatory". It is the world's largest gravitational wave observatory and a marvel of precision engineering. Comprising two enormous laser interferometers located 3000 kilometers apart, LIGO exploits the physical properties of light and of space itself to detect and understand the origins of gravitational waves (GW).
 
 LIGO (and other detectors like it) is unlike any other observatory on Earth. Ask someone to draw a picture of an observatory and odds are they will draw a gleaming white telescope dome perched on a mountain-top. As a gravitational wave observatory, LIGO bears no resemblance to this whatsoever, as the aerial photo of the LIGO Livingston interferometer at right clearly illustrates.
 
