@@ -9,7 +9,7 @@ layout: home
 <div class="user-details2">
 <p id="research" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
 <h2> Research  </h2>
-<p style="text-align: justify;"> My research is employing the Quantum Field Theory, particle physics and gravitational wave physics to study the early universe. This mainly involves why the universe contains more matter than antimatter; the production mechanism of dark matter and their nature; cosmological phase transitions; topological defects such as cosmic string, domain wall; and the cosmological background of gravitational waves. In addition, I'm also interested in primordial black hole as a dark matter candidate and the very early cosmic inflation.</p>
+<p style="text-align: justify;"> My research is employing the Quantum Field Theory, particle physics and gravitational wave physics to study the early universe. This mainly involves why the universe contains more matter than antimatter; the production mechanism of dark matter, their nature and how detect them; cosmological phase transitions; topological defects such as cosmic string, domain wall; and the cosmological background of gravitational waves. In addition, I'm also interested in primordial black hole as a dark matter candidate and the very early cosmic inflation.</p>
 	
 <div class="user-details3">
 <p id="articles" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
