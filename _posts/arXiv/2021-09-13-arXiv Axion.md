@@ -13,3 +13,6 @@ status: Writing
 
 # Axion dark matter
 [Thermal Misalignment of Scalar Dark Matter](https://arxiv.org/pdf/2109.04476.pdf)
+
+# Axion string
+[More Axions from Strings](https://arxiv.org/pdf/2007.04990.pdf);&nbsp;&nbsp; [Maximal axion misalignment from a minimal model](https://arxiv.org/pdf/2006.07379.pdf)
