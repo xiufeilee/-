@@ -8,5 +8,5 @@ tags: Research tools
 categories: Research tools
 status: Writing
 ---
->[取data网站](https://apps.automeris.io/wpd/)
+>1. [automeris](https://apps.automeris.io/wpd/)
 
