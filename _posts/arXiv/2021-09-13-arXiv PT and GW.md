@@ -12,7 +12,7 @@ status: Writing
 >NOTES: Collecting papers from [arXiv](http://arxiv.org)
 
 # PT review
-[Phase transitions in the early universe](https://arxiv.org/pdf/2008.09136.pdf) ;&nbsp;&nbsp;
+[Phase transitions in the early universe](https://arxiv.org/pdf/2008.09136.pdf);&nbsp;&nbsp;
 [Phase transition dynamics and gravitational wave spectra of strong first-order phase transition in supercooled universe](https://arxiv.org/pdf/2003.08892.pdf)
 
 # PT dynamics
@@ -26,3 +26,8 @@ status: Writing
 
 ## Bubble collision
 [Bubble Clustering in Cosmological First Order Phase Transitions](https://arxiv.org/pdf/2109.04496.pdf)
+
+# Model building
+[Gravitational traces of broken gauge symmetries](https://arxiv.org/pdf/1910.01124.pdf);&nbsp;&nbsp;[Gravitational waves from first order electroweak phase
+transition in models with the U(1)X gauge symmetry](https://arxiv.org/pdf/1802.02947.pdf);&nbsp;&nbsp;[Gravitational waves from conformal
+symmetry breaking](https://arxiv.org/pdf/1809.11129.pdf);&nbsp;&nbsp;
