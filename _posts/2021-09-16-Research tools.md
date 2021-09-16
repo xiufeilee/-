@@ -1,12 +1,11 @@
 ---
-title: arXiv PT and GW
+title: Research tools
 commentable: ture
 Edit: 2021-09-16
 mathjax: true
 mermaid: true
-tags: arXiv PT GW 
-categories: PT GW
-description: Collecting papers from [arXiv](http://arxiv.org).
+tags: Research tools 
+categories: Research tools
 status: Writing
 ---
 >[取data网站](https://apps.automeris.io/wpd/)
