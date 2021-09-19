@@ -10,5 +10,5 @@ status: Writing
 ---
 >1. [automeris](https://apps.automeris.io/wpd/)
 >2. [academic jobs online](https://academicjobsonline.org/ajo/jobs/19212)
-
+>3. [THE NET ADVANCE OF PHYSICS](http://web.mit.edu/redingtn/www/netadv/)
 
