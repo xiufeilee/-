@@ -9,7 +9,7 @@ mathjax: true
 ---
 
 # Me
-A student in physics.
+I am a theoretical physics researcher. I study particle physics, cosmology, and particle astro-physics. Besides physics, I am also intersted in music, table tennis and all kinds of outdoor sports.
 
 
 # This Site
