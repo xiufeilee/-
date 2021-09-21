@@ -16,3 +16,6 @@ status: Writing
 
 # Axion string
 [More Axions from Strings](https://arxiv.org/pdf/2007.04990.pdf);&nbsp;&nbsp; [Maximal axion misalignment from a minimal model](https://arxiv.org/pdf/2006.07379.pdf)
+
+# GW
+[Challenges and Opportunities of Gravitational Wave Searches at MHz to GHz Frequencies](https://arxiv.org/pdf/2011.12414.pdf)
