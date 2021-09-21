@@ -11,4 +11,5 @@ status: Writing
 >1. [automeris](https://apps.automeris.io/wpd/)
 >2. [academic jobs online](https://academicjobsonline.org/ajo/jobs/19212)
 >3. [THE NET ADVANCE OF PHYSICS](http://web.mit.edu/redingtn/www/netadv/)
-
+>4.[Challenges and Opportunities of High Frequency Gravitational Wave Detection | (smr 3493)](http://indico.ictp.it/event/9006/)
+>5.[Ultra-High-Frequency GWs: A Theory and Technology Roadmap](https://indico.cern.ch/event/1074510/)
