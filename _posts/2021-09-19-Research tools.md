@@ -13,3 +13,4 @@ status: Writing
 >3. [THE NET ADVANCE OF PHYSICS](http://web.mit.edu/redingtn/www/netadv/)
 >4. [Challenges and Opportunities of High Frequency Gravitational Wave Detection | (smr 3493)](http://indico.ictp.it/event/9006/)
 >5. [Ultra-High-Frequency GWs: A Theory and Technology Roadmap](https://indico.cern.ch/event/1074510/)
+>6. [Ultra-High-Frequency Gravitational Waves](http://www.ctc.cam.ac.uk/activities/UHF-GW.php)
