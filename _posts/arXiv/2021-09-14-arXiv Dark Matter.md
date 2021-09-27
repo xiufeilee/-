@@ -13,3 +13,5 @@ status: Writing
 
 # DM review
 [Dark Matter in Astrophysics/Cosmology](https://arxiv.org/pdf/2109.05854.pdf) ;&nbsp;&nbsp;
+# Higgs portal
+[The Higgs Portal to Cosmology](https://arxiv.org/pdf/2104.03342.pdf)
