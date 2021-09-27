@@ -35,4 +35,4 @@ from Symmetry Breaking](https://arxiv.org/pdf/2105.14549.pdf);&nbsp;&nbsp;[Possi
 in the two Higgs doublet models](https://arxiv.org/pdf/2106.03439.pdf);&nbsp;&nbsp;
 
 # PT-DM-GW
-[Hearing without seeing: gravitational waves from hot and cold hidden sectors](https://link.springer.com/content/pdf/10.1007/JHEP07(2019)044.pdf) [Turn up the volume: Listening to phase transitions in hot dark sectors]
+[Hearing without seeing: gravitational waves from hot and cold hidden sectors](https://link.springer.com/content/pdf/10.1007/JHEP07(2019)044.pdf) ;&nbsp;&nbsp;[Turn up the volume: Listening to phase transitions in hot dark sectors](https://arxiv.org/pdf/2109.06208.pdf)
