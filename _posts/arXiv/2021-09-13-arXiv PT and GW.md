@@ -31,4 +31,5 @@ status: Writing
 [Gravitational traces of broken gauge symmetries](https://arxiv.org/pdf/1910.01124.pdf);&nbsp;&nbsp;[Gravitational waves from first order electroweak phase
 transition in models with the U(1)X gauge symmetry](https://arxiv.org/pdf/1802.02947.pdf);&nbsp;&nbsp;[Gravitational waves from conformal
 symmetry breaking](https://arxiv.org/pdf/1809.11129.pdf);&nbsp;&nbsp;[Hidden Photon and Axion Dark Matter
-from Symmetry Breaking](https://arxiv.org/pdf/2105.14549.pdf)
+from Symmetry Breaking](https://arxiv.org/pdf/2105.14549.pdf);&nbsp;&nbsp;[Possibility of multi-step electroweak phase transition
+in the two Higgs doublet models](https://arxiv.org/pdf/2106.03439.pdf);&nbsp;&nbsp;
