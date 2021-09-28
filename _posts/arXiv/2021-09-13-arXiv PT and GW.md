@@ -21,7 +21,7 @@ status: Writing
 
 # PT GW
 ## Sound wave
-[Effect of density fluctuations on gravitational wave production in first-order phase transitions](https://arxiv.org/pdf/2108.11947.pdf)
+[Effect of density fluctuations on gravitational wave production in first-order phase transitions](https://arxiv.org/pdf/2108.11947.pdf);&nbsp;&nbsp;[Cosmological Backgrounds of Gravitational Waves](https://arxiv.org/pdf/1801.04268.pdf)
 
 
 ## Bubble collision
