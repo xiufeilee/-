@@ -39,3 +39,6 @@ in the two Higgs doublet models](https://arxiv.org/pdf/2106.03439.pdf);&nbsp;&nb
 
 # Cosmology
 [Sliding Naturalness: Cosmological Selection of the Weak Scale](https://arxiv.org/pdf/2109.13249.pdf)
+
+# Holography
+[Effective actions and bubble nucleation from holography](https://arxiv.org/pdf/2109.13784.pdf)
