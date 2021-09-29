@@ -1,10 +1,10 @@
 ---
-title: arXiv Axion
+title: arXiv Inflation
 commentable: ture
 Edit: 2021-09-13
 mathjax: true
 mermaid: true
-tags: arXiv axion DM GW CS
+tags: arXiv axion Inflation GW 
 categories: dark,matter cosmic,string GW axion
 description: Collecting papers from [arXiv](http://arxiv.org).
 status: Writing
@@ -13,6 +13,3 @@ status: Writing
 
 # Preheating
 [Tachyonic Preheating in Plateau Inflation](https://arxiv.org/pdf/2108.10767.pdf)
-
-# Axion Fragmentation 
-[Axion Fragmentation](https://arxiv.org/pdf/1911.08472.pdf);&nbsp;&nbsp;[Axion Fragmentation on the Lattice](https://arxiv.org/pdf/2109.13823.pdf)
