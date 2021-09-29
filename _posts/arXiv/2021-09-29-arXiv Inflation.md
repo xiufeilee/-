@@ -15,4 +15,4 @@ status: Writing
 [Tachyonic Preheating in Plateau Inflation](https://arxiv.org/pdf/2108.10767.pdf)
 
 # Axion Fragmentation 
-[Axion Fragmentation on the Lattice](https://arxiv.org/pdf/2109.13823.pdf)
+[Axion Fragmentation](https://arxiv.org/pdf/1911.08472.pdf);&nbsp;&nbsp;[Axion Fragmentation on the Lattice](https://arxiv.org/pdf/2109.13823.pdf)
