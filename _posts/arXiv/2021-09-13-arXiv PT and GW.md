@@ -36,3 +36,6 @@ in the two Higgs doublet models](https://arxiv.org/pdf/2106.03439.pdf);&nbsp;&nb
 
 # PT-DM-GW
 [Hearing without seeing: gravitational waves from hot and cold hidden sectors](https://link.springer.com/content/pdf/10.1007/JHEP07(2019)044.pdf) ;&nbsp;&nbsp;[Turn up the volume: Listening to phase transitions in hot dark sectors](https://arxiv.org/pdf/2109.06208.pdf)
+
+# Cosmology
+[Sliding Naturalness: Cosmological Selection of the Weak Scale](https://arxiv.org/pdf/2109.13249.pdf)
