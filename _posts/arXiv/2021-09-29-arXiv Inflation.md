@@ -13,3 +13,6 @@ status: Writing
 
 # Preheating
 [Tachyonic Preheating in Plateau Inflation](https://arxiv.org/pdf/2108.10767.pdf)
+
+# Inflation GW
+[Baryogenesis in the paradigm of quintessential inflation](https://arxiv.org/pdf/1908.03742.pdf);&nbsp;&nbsp;[Inconsistency of an inflationary sector coupled only to Einstein gravity](https://arxiv.org/pdf/1811.04093.pdf)
