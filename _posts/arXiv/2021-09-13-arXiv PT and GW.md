@@ -32,7 +32,7 @@ status: Writing
 transition in models with the U(1)X gauge symmetry](https://arxiv.org/pdf/1802.02947.pdf);&nbsp;&nbsp;[Gravitational waves from conformal
 symmetry breaking](https://arxiv.org/pdf/1809.11129.pdf);&nbsp;&nbsp;[Hidden Photon and Axion Dark Matter
 from Symmetry Breaking](https://arxiv.org/pdf/2105.14549.pdf);&nbsp;&nbsp;[Possibility of multi-step electroweak phase transition
-in the two Higgs doublet models](https://arxiv.org/pdf/2106.03439.pdf);&nbsp;&nbsp;
+in the two Higgs doublet models](https://arxiv.org/pdf/2106.03439.pdf);&nbsp;&nbsp;[Gravitational waves from scale-invariant vector dark matter model: Probing below the neutrino-floor](https://arxiv.org/pdf/1907.08899.pdf)
 
 # PT-DM-GW
 [Hearing without seeing: gravitational waves from hot and cold hidden sectors](https://link.springer.com/content/pdf/10.1007/JHEP07(2019)044.pdf) ;&nbsp;&nbsp;[Turn up the volume: Listening to phase transitions in hot dark sectors](https://arxiv.org/pdf/2109.06208.pdf)
