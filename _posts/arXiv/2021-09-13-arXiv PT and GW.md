@@ -35,7 +35,7 @@ from Symmetry Breaking](https://arxiv.org/pdf/2105.14549.pdf);&nbsp;&nbsp;[Possi
 in the two Higgs doublet models](https://arxiv.org/pdf/2106.03439.pdf);&nbsp;&nbsp;[Gravitational waves from scale-invariant vector dark matter model: Probing below the neutrino-floor](https://arxiv.org/pdf/1907.08899.pdf)
 
 # PT-DM-GW
-[Hearing without seeing: gravitational waves from hot and cold hidden sectors](https://link.springer.com/content/pdf/10.1007/JHEP07(2019)044.pdf) ;&nbsp;&nbsp;[Turn up the volume: Listening to phase transitions in hot dark sectors](https://arxiv.org/pdf/2109.06208.pdf)
+[Hearing without seeing: gravitational waves from hot and cold hidden sectors](https://link.springer.com/content/pdf/10.1007/JHEP07(2019)044.pdf) ;&nbsp;&nbsp;[Turn up the volume: Listening to phase transitions in hot dark sectors](https://arxiv.org/pdf/2109.06208.pdf);&nbsp;&nbsp;[First Order Electroweak Phase Transition from Weakly Coupled sub-GeV Physics and Possible Connection to Fermion Flavor](https://arxiv.org/pdf/2101.05319.pdf)
 
 # Cosmology
 [Sliding Naturalness: Cosmological Selection of the Weak Scale](https://arxiv.org/pdf/2109.13249.pdf)
