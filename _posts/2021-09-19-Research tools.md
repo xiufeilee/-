@@ -14,3 +14,4 @@ status: Writing
 >4. [Challenges and Opportunities of High Frequency Gravitational Wave Detection](http://indico.ictp.it/event/9006/)
 >5. [Ultra-High-Frequency GWs: A Theory and Technology Roadmap](https://indico.cern.ch/event/1074510/)
 >6. [Ultra-High-Frequency Gravitational Waves](http://www.ctc.cam.ac.uk/activities/UHF-GW.php)
+>7. [Paperscape](https://paperscape.org/)
