@@ -25,3 +25,7 @@ status: Writing
 
 # Axion Misalignment 
 [MiMeS: Misalignment Mechanism Solver](https://arxiv.org/pdf/2110.12253.pdf)
+
+# Axion Inflation
+[Primordial Gravitational Waves from Axion-Gauge Fields Dynamics](https://arxiv.org/pdf/1608.04216.pdf);&nbsp;&nbsp;[Dark Radiation in Spectator Axion-Gauge Models
+](https://arxiv.org/pdf/2110.12936.pdf)
