@@ -20,3 +20,8 @@ status: Writing
 in Palatini preheating](https://arxiv.org/pdf/2007.03484.pdf);&nbsp;&nbsp;[Light inflaton model in a metastable Universe](https://arxiv.org/pdf/2108.02540.pdf);&nbsp;&nbsp;[Hubble-induced phase transitions on the lattice with applications to Ricci reheating](https://arxiv.org/pdf/2107.09671.pdf);&nbsp;&nbsp;
 # PBH 
 [Review-Primordial Black Holes as Dark Matter Candidates](https://arxiv.org/pdf/2110.02821.pdf)
+# N_eff 
+[Precision Early Universe
+Thermodynamics made simple:
+Neff and Neutrino Decoupling in the
+Standard Model and beyond](https://arxiv.org/pdf/2001.04466.pdf)
