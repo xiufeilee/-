@@ -45,3 +45,6 @@ in the two Higgs doublet models](https://arxiv.org/pdf/2106.03439.pdf);&nbsp;&nb
 
 # Thermal mass
 [Effective potential at finite temperature in the standard model](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.45.2933);&nbsp;&nbsp;[Bosonic thermal masses in supersymmetry](https://arxiv.org/pdf/hep-ph/9606438.pdf);&nbsp;&nbsp;[Testing Electroweak Baryogenesis with Future Colliders](https://arxiv.org/pdf/1409.0005.pdf);&nbsp;&nbsp;[Primordial gravitational waves in a minimal model of particle physics and cosmology](https://arxiv.org/pdf/2009.02050.pdf)
+
+# Conferences
+[Gravitational Wave Probes of Physics Beyond Standard Model](https://indico.cern.ch/event/1044754/)
