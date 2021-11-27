@@ -15,3 +15,4 @@ status: Writing
 >5. [Ultra-High-Frequency GWs: A Theory and Technology Roadmap](https://indico.cern.ch/event/1074510/)
 >6. [Ultra-High-Frequency Gravitational Waves](http://www.ctc.cam.ac.uk/activities/UHF-GW.php)
 >7. [Paperscape](https://paperscape.org/)
+>8. [Connected Papers](https://www.connectedpapers.com/)
