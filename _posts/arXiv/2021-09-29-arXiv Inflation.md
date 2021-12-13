@@ -12,7 +12,7 @@ status: Writing
 >NOTES: Collecting papers from [arXiv](http://arxiv.org).
 
 # Inflation models
-[A review of Quintessential Inflation](https://arxiv.org/pdf/2108.11144.pdf)
+[A review of Quintessential Inflation](https://arxiv.org/pdf/2108.11144.pdf);&nbsp;&nbsp;[Lecture notes on inflation and primordial black holes](https://arxiv.org/pdf/2112.05716.pdf)
 
 # Preheating
 [Tachyonic Preheating in Plateau Inflation](https://arxiv.org/pdf/2108.10767.pdf)
