@@ -49,5 +49,8 @@ in the two Higgs doublet models](https://arxiv.org/pdf/2106.03439.pdf);&nbsp;&nb
 # Baryogenesis 
 [On the origin of matter in the Universe](https://arxiv.org/pdf/2107.13750.pdf)
 
+# Finite temperature field theory
+[An introduction to Thermal Field Theory and Some of its Application](https://arxiv.org/pdf/2207.00534.pdf)
+
 # Conferences
 [Gravitational Wave Probes of Physics Beyond Standard Model](https://indico.cern.ch/event/1044754/)
