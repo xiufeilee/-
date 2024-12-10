@@ -4,7 +4,7 @@ layout: home
 <div class="user-details">
 <p id="about" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
 <h2> About </h2>
-<p style="text-align: justify;">Welcome! I am a theoretical physics researcher working in Inner Mongolia University (Hohhot, China). I study particle physics, cosmology, and particle astro-physics. Besides physics, I am also intersted in music, table tennis and all kinds of outdoor sports. The purposes of this website is just for learning. If you have any questions, please  <a href="mailto:xiufeili@imu.edu.cn">contact me</a>. </p>
+<p style="text-align: justify;">Welcome! I am a theoretical physics researcher working in [Inner Mongolia University](https://www.imu.edu.cn/) (Hohhot, China). I study particle physics, cosmology, and particle astro-physics. Besides physics, I am also intersted in music, table tennis and all kinds of outdoor sports. The purposes of this website is just for learning. If you have any questions, please  <a href="mailto:xiufeili@imu.edu.cn">contact me</a>. </p>
 	
 <div class="user-details2">
 <p id="research" style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;
