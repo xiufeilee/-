@@ -14,7 +14,7 @@ status: Writing
 # PT review
 [Phase transitions in the early universe](https://arxiv.org/pdf/2008.09136.pdf);&nbsp;&nbsp;
 [Phase transition dynamics and gravitational wave spectra of strong first-order phase transition in supercooled universe](https://arxiv.org/pdf/2003.08892.pdf);&nbsp;&nbsp;[EuCAPT White Paper: Opportunities and Challenges for Theoretical Astroparticle Physics in the Next Decade](https://arxiv.org/pdf/2110.10074.pdf);&nbsp;&nbsp;[Cosmological phase transitions: from perturbative particle physics to gravitational waves](https://arxiv.org/pdf/2305.02357.pdf);&nbsp;&nbsp;[Primordial gravitational wave backgrounds from phase transitions
- with next generation ground based detectors](https://arxiv.org/pdf/2406.02359);&nbsp;&nbsp;
+ with next generation ground based detectors](https://arxiv.org/pdf/2406.02359); &nbsp;&nbsp;
 
 # PT dynamics
 ## Bubble wall velocity
